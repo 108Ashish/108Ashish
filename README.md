@@ -24,7 +24,7 @@
   <a href="mailto:ashish.singhsuttle@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/ashishsingh-dev](https://www.linkedin.com/in/ashish-singh-246a03254/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ashish-singh-246a03254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://ashishsingh.vercel.app" target="_blank">
