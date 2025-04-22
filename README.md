@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **innovative web apps and real-world full stack projects**
  
- 🌱 I’m currently learning **DevOps, TypeScript, and Web3 fundamentals**
+ 🌱 I’m currently learning **DevOps and  TypeScript**
 
 💬 Ask me about **React, Node.js, Express, MongoDB, or anything tech!**
 
